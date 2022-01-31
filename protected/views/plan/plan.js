@@ -27,7 +27,10 @@ var btnadicionar= new Ext.Button({
 	   text:'Modificar', 
 	   width: 30,
 	handler:function(){winFpGestionar('Mod');} 	   
-	}); 
+	});
+ 
+   
+          
    
 
 //variable que captura el record seleccionado    
@@ -89,7 +92,7 @@ function CargarValoresAsociados()
 				var dd = c.responseText;
 				var Data = Ext.decode(dd);	//extraigo la información 
 				store_plan_mes.loadData(Data);
-				if(store_plan_mes.getTotalCount() == 0)
+				if(store_plan_mes.getTotalCount() ==0)
 				{
 					btnadicionar.enable();
 				} 
