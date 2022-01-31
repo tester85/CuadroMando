@@ -1,0 +1,49 @@
+#msg-ct {
+    position:absolute;
+    left:680px;
+    top:17px;
+    width:217px;
+    height:24px;
+}
+
+#msg {
+    width:217px;
+    height:24px;
+    background-image:url(../images/msg-bg.png);
+    color:#777;
+    font-family:tahoma,helvetica,arial,sans-serif;
+    font-size:11px;
+    cursor:pointer;
+    visibility:hidden;
+}
+
+#msg-inner {
+    padding:5px 10px 0;
+    zoom:1;
+    line-height:20px;
+    text-align:center;
+}
+
+.msg-over {
+    color:#789030 !important;
+}
+
+#msg img {
+    width:24px;
+    height:24px;
+}
+
+/**
+ * Ext.App#setAlert message-box styles.
+ */
+.app-msg .x-box-mc {
+    text-align: left;
+}
+
+.x-icon-text { background-repeat: no-repeat; padding-left: 20px; height: 16px; }
+.icon-status-ok { background-image: url(../icons/fugue/icons/tick-circle-frame.png) !important; }
+.icon-status-error { background-image: url(../icons/fugue/icons/exclamation-red-frame.png) !important; }
+.icon-status-notice { background-image: url(../icons/fugue/icons/exclamation--frame.png) !important; }
+
+.icon-add16 { background-image: url(../icons/fugue/icons/plus.png) !important; }
+.icon-del16 { background-image: url(../icons/fugue/icons/minus.png) !important; }

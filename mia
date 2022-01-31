@@ -1,0 +1,12 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="415" xOffset="0" scrollWidth="1536" startPos="12134" endPos="12134" selMode="0" lang="Javascript" encoding="-1" filename="C:\wamp\www\CuadroM\protected\views\accion\accion.js" />
+            <File firstVisibleLine="270" xOffset="0" scrollWidth="1536" startPos="7109" endPos="7109" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\CuadroM\protected\controllers\AccionController.php" />
+            <File firstVisibleLine="63" xOffset="0" scrollWidth="1536" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\CuadroM\protected\config\main.php" />
+            <File firstVisibleLine="45" xOffset="0" scrollWidth="1536" startPos="1748" endPos="1748" selMode="0" lang="Javascript" encoding="-1" filename="C:\wamp\www\RH\aplicacion\protected\modules\gestion\views\provincia\gestionar_provincia.js" />
+            <File firstVisibleLine="65" xOffset="0" scrollWidth="1536" startPos="2909" endPos="2909" selMode="0" lang="Javascript" encoding="-1" filename="C:\wamp\www\RH\aplicacion\protected\modules\gestion\views\provincia\adicionar_provincia.js" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

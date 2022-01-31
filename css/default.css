@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+body{
+	background: #afb3bc; 
+	font-size: 70.5%;
+}
+ 
+ 
+.gestion_documental{
+   text-decoration: none;
+	margin-left: 15px; 
+	 
+	 
+}
+ 
+ 
+
+.contenedor_exterior_menu_horizontal{
+	width: 950px;
+	height: 45px;
+	top: 102px;
+	margin-left: -7px;
+	position: absolute;
+	z-index: 10;	
+}
+
+.borde_izquierdo_menu_horizontal{
+	width: 7px;
+	height: 45px;
+	float: left;
+	 
+}
+
+.borde_derecho_menu_horizontal{
+	width: 7px;
+	height: 45px;
+	float: left;
+	 
+}
+
+.contenedor_exterior_cuerpo_menu_horizontal{
+	width: 936px;
+	height: 40px;	
+	float: left;
+	#padding-top: 0;
+	
+}
+ 
+   
